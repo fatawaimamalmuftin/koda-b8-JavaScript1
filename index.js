@@ -9,13 +9,9 @@ let keliling = 0;
 
 if (Rijari % 7 === 0) {
   luas = phi2 * Rijari * Rijari;
-} else {
-  luas = phi * Rijari * Rijari;
-}
-
-if (Rijari % 7 === 0) {
   keliling = 2 * phi2 * Rijari;
 } else {
+  luas = phi * Rijari * Rijari;
   keliling = 2 * phi * Rijari;
 }
 
