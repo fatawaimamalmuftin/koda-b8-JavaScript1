@@ -1,3 +1,7 @@
+//  JavaScript1
+
+//  Case: menghitung Keliling dan luas lingkaran
+
 let phi = 3.14; //22/7
 let Rijari = 10;
 
